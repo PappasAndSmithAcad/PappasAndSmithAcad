@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @PappasAndSmithAcad
+- 👋 Hi, I’m @PappasAndSmithAcademy.
 - 👀 I’m interested in Data Analytics with SQL.
 - 🌱 I’m currently learning Data Analytics Essentials with Deviare.
 - 💞️ I’m looking to collaborate on studying methods and tools.
 - 📫 pappas.smith@gmail.com OR goroshi.moremi@gmail.com
-- 😄 General
+- 😄 General.
 - ⚡ It is never too late to have a happy childhood.
 
 <!---
